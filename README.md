@@ -190,6 +190,7 @@ APIs
 - [Coingecko.com](https://www.coingecko.com/en/api) - Free, comprehensive cryptocurrency API.
 - [CurrencyLayer.com](https://currencylayer.com/documentation) - Exchange rates and currency conversion API.
 - [CurrencyScoop.com](https://currencyscoop.com/) - Real-time and historical currency rates JSON API.
+- [ExchangeRate-API.com](https://www.exchangerate-api.com/docs/overview) - Currency conversion API.
 - [ExchangeRatesAPI.io](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion.  End of day data only.
 - [Frankfurter.app](https://www.frankfurter.app/docs/) - Exchange rates and currency data API. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
@@ -270,7 +271,7 @@ APIs
  - [Nigeria](https://www.cbn.gov.ng/rates/) - not only exchange rates, but also other info in CSV format.
  - [Peru](https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/api) - variety of data in [XLSX](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
  - [Poland](https://api.nbp.pl) - Currency exchange rates and gold prices in the XML and JSON formats.
- - [Switzerland](https://data.snb.ch/en) - rich variety of datan in XLS and CSV formats.
+ - [Switzerland](https://data.snb.ch/en) - rich variety of data in XLS and CSV formats.
  - [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) - exchange rates and bond placements in JSON and XML formats.
 
 ### Fitness
@@ -457,6 +458,7 @@ APIs
 ### Music Identification
 
 - [Acoustid](https://acoustid.org/webservice) - Supports searching through their fingerprint database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [AudD](https://docs.audd.io/) - Recognize music in microphone recordings, audio files and UGC. 
 - [Gracenote](https://developer.gracenote.com/) - Largest source of music and video metadata on the planet.
 
 ### Music Lyrics
@@ -565,6 +567,7 @@ APIs
 - [MySocialApp](https://mysocialapp.io) - Seamless Social Networking features, API, SDK for any app.
 - [Pinterest](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
 - [Reddit](https://github.com/reddit/reddit/wiki/API) - API to build clients, crawlers, scrapers, and browser extensions. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Saidit](https://github.com/Mr-Steal-Your-Script/rsaw) - Open source API wrapper made for the Reddit alternative Saidit.net. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Snapchat](https://github.com/mgp25/SC-API) - PHP library of Snapchat’s private API. #Private
 - [Telegram](https://core.telegram.org/) - The Telegram API allows you to build your own customized Telegram clients.
 - [Trash Nothing](https://trashnothing.com/developer) - Build apps on top of one of the largest freecycling and reuse communities with millions of people giving away thousands of free items every day.
